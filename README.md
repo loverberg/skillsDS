@@ -1,17 +1,9 @@
-# Автоматизация поиска и анализа вакансий hh.ru
+# Комплексный инструмент для анализа вакансий Data Science (DataEngineer, MLEngineer, DataAnalyst), размещенных на портале HeadHunter, построен с поддержкой контейнеризации Docker
 
-**Идея**: проект упрощает поиск, анализ и исследование особенностей вакансий на hh.ru.
-Скрипт использует API hh.ru для доступа к данным вакансий.
+**Идея**: проект упрощает поиск, анализ и исследование особенностей DS-вакансий на hh.ru.
+Проект реализован с использованием лицензии GNU GPL 3.0. (подробнее см. ниже).
 
 ### Общая информация
-
-| **Title**     | HeadHunter Find & Research    |
-| :-- | :-- |
-| **Author**    | Alexander Kapitanov           |
-| **Language**  | Python (3+)                   |
-| **Contact**   | `example@mail.ru`             |
-| **Release**   | 14 Aug 2019                   |
-| **License**   | GNU GPL 3.0                   |
 
 ![Example Data Frame](img/prev_table.png "Example Data Frame")
 
