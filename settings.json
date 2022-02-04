@@ -1,0 +1,16 @@
+{
+  "options": {
+    "text": "data engineer OR data analyst OR data scientist OR ml engineer",
+    "area": 1,
+    "per_page": 100
+  },
+  "refresh": true,
+  "max_workers": 7,
+  "save_result": true,
+  "rates": {
+    "USD": 0.013,
+    "EUR": 0.011,
+    "UAH": 0.37,
+    "RUR": 1
+  }
+}
