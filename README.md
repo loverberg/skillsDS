@@ -1,7 +1,7 @@
 # Комплексный инструмент для анализа вакансий Data Science (DataEngineer, MLEngineer, DataAnalyst), размещенных на портале HeadHunter, построен с поддержкой контейнеризации Docker
 
 **Идея**: проект упрощает поиск, анализ и исследование особенностей DS-вакансий на hh.ru.
-Проект реализован с использованием лицензии GNU GPL 3.0. (подробнее см. ниже).
+Проект реализован с использованием лицензии GNU GPL 3.0.
 
 ### Общая информация
 
@@ -132,16 +132,3 @@ optional arguments:
 ![Salaries predicted](img/predicted.png "Predicted Data")
 
 [Документация API HeadHunter hh.ru](https://github.com/hhru/api "Head-Hunter API documentation")
-____
-
-### Link:
-  * https://habr.com/users/capitanov/
-
-### Author:
-  * Kapitanov Alexander
-
-### Release:
-  * 2019/08/14.
-
-### License:
-  * GNU GPL 3.0.
